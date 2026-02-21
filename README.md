@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=000000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Divyansh+Malyan;Frontend+Developer;MERN+Stack+Enthusiast;Building+Clean+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Divyansh+Malyan;Frontend+Developer;MERN+Stack+Enthusiast;Building+Clean+Web+Experiences" />
 </p>
 
 ---
