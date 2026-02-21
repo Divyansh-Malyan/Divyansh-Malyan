@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50ba9e2a3.gif" width="100%"/>
+
 
 <h1 align="center">Divyansh Malyan</h1>
 
