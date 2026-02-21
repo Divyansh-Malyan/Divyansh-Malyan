@@ -2,9 +2,8 @@
 
 <h1 align="center">Divyansh Malyan</h1>
 
-<p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=whoami+%3E+Frontend+Developer;whoami+%3E+MERN+Stack+Learner;whoami+%3E+DSA+Enthusiast;whoami+%3E+Future+Full+Stack+Engineer" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=flat" />
