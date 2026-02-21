@@ -1,53 +1,70 @@
-
-
-<h1 align="center">Divyansh Malyan</h1>
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=whoami+%3E+Frontend+Developer;whoami+%3E+MERN+Stack+Learner;whoami+%3E+DSA+Enthusiast;whoami+%3E+Future+Full+Stack+Engineer" />
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Stack-MERN-black?style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=000000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Divyansh+Malyan;Frontend+Developer;MERN+Stack+Enthusiast;Building+Clean+Web+Experiences" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I build clean, responsive web interfaces and am transitioning into full-stack development.
-Focused on strong fundamentals, problem-solving, and building production-ready applications.
+* 🎓 B.Tech CSE Student
+* 💻 Frontend Developer with backend understanding
+* 🧠 Currently learning **Data Structures & Algorithms**
+* 🛠 Focused on building real-world web applications
+* 🌱 Constantly improving and exploring new tech
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,java,python,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## Current Focus
+## 📌 Featured Projects
 
-* 📌 Data Structures & Algorithms (Striver Sheet)
-* 📌 Full-Stack Project Development (MERN)
-* 📌 Backend Fundamentals & API Design
+* 🚀 **Job Platform (MERN)**
 
 ---
 
-## Projects
+## 🤝 Connect With Me
 
-> 🚧 Coming soon — focusing on quality over quantity.
-
----
-
-## Connect
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<p>
+  <a href="https://linkedin.com/in/divyanshmalyan">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:divyanshmalyan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50ba9e2a3.gif" width="100%"/>
+## ⚡ Developer Mindset
+
+> “Consistency compounds. Small wins every day lead to big results.”
+
+---
+
+⭐ *Feel free to explore my repositories and drop a star if you like my work!*
