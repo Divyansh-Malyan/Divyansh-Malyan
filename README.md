@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-DSA-blue?style=flat" />
   <img src="https://img.shields.io/badge/Stack-MERN-black?style=flat" />
-  <img src="https://img.shields.io/badge/Goal-Top%20Placement-success?style=flat" />
 </p>
 
 ---
@@ -34,21 +33,6 @@ Focused on strong fundamentals, problem-solving, and building production-ready a
 * 📌 Data Structures & Algorithms (Striver Sheet)
 * 📌 Full-Stack Project Development (MERN)
 * 📌 Backend Fundamentals & API Design
-
----
-
-## Projects
-
-> 🚧 Coming soon — focusing on quality over quantity.
-
----
-
-## Connect
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
