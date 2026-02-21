@@ -57,14 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh-Malyan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Malyan&layout=compact&theme=tokyonight)
-
----
-
 ## ⚡ Fun Fact
 
 I treat coding like a game — level up every day 🚀
