@@ -1,7 +1,7 @@
 # Hi, I'm Divyansh 👋
 
 🎓 B.Tech CSE Student | 💻 Frontend Developer | 🚀 Aspiring Full-Stack Engineer  
-📍 India | 🎯 Target: 40+ LPA Placement
+📍 India 
 
 ---
 
